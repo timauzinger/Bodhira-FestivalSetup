@@ -10,7 +10,7 @@ This is the touchdesigner-based software to live-control the kinetic light insta
 
 ## Overview & UI
 
-Bodhira's Lighting Effects are controlled using 2 Layers of 2D-Texture Effects. There are the Base-Effects intended to be used for longer display and Overlay-Effects intended for shorter bursts of excitement. These Overlay-Effects can be triggered simultniously and if done so thex mix. Additionally there are Color-Presets added wich can  be overwirtten by RGB values to the desired Color. 
+Bodhira's Lighting Effects are controlled using 2 Layers of 2D-Texture Effects. There are the Base-Effects intended to be used for longer display and Overlay-Effects intended for shorter bursts of excitement. These Overlay-Effects can be triggered simultniously and if done so thex mix. Additionally there are Color-Presets (1 Color scheme for Overlay and BaseEffect) added wich can  be overwirtten by RGB values to the desired Color. 
 
 All Effects as well al Motor-Movement and additional Effects are bound to a global Tap-Tempo wich can be Tapped-In at any time.
 
