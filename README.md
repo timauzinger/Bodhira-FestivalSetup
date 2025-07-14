@@ -17,11 +17,11 @@ Bodhira's Lighting Effects are controlled using 2 Layers of 2D-Texture Effects. 
 All Effects as well al Motor-Movement and additional Effects are bound to a global Tap-Tempo wich can be Tapped-In at any time.
 
 Additionall Post-Effects that can be used fo further expression: 
-* Feedback: adds a Feedback-Effect wich smoothes out textures, enhances their Brightness and is generally a good practice for transitions and just playing around
-* Glitch: well as the Name suggests this will Glitch-Up the current Textures and is variable in Strength
-* Strobe: This adds Storbing Effect wich still will integrate parts of the Texture and is affected by the Feedback
-* Beat-Enahncer:  adds global Dimmer-Effect matched to the Beat
-* Auto-ColorShifter: continously changes the color over Time (slowly)
+* **Feedback**: adds a Feedback-Effect wich smoothes out textures, enhances their Brightness and is generally a good practice for transitions and just playing around
+* **Glitch**: well as the Name suggests this will Glitch-Up the current Textures and is variable in Strength
+* **Strobe**: This adds Storbing Effect wich still will integrate parts of the Texture and is affected by the Feedback
+* **Beat-Enahncer**:  adds global Dimmer-Effect matched to the Beat
+* **Auto-ColorShifter**: continously changes the color over Time (slowly)
 
 There are other Settings regarding the Motor and FadeTimes of the Effects wich should be pretty much self explanatory. 
 
