@@ -1,3 +1,0 @@
-def onValueChange(panelValue, prev):
-	ext.AnnotateExt.onPanelValueChange(panelValue, prev)
-	
