@@ -1,6 +1,8 @@
 # BodhiraLightingController
 This is the touchdesigner-based software to live-control the kinetic light installation "Bodhira" in festival or live-music like events. The Project provides a UserInterface and allows to controll lighting effects and color as well as movement states using a touchscreen, PS3-Controller or DMX. It integrated in a DMX lighting Environment.
 
+**This Project is created in Touchdesigner Version 2023.12120 - so for best practice try to open the "Bodhira_LiveController_2025.toe" in this verison!**
+
 ## Contents
 
 - [Overview & UI](#Overview-&-UI)
