@@ -43,7 +43,7 @@ Bodhira can be controlled using the UI via a Touchscreen, using a PS§-Controlle
 | 2    | **Main-Dimmer**          |               |                             |                                                                    |          |
 |      |                          | 0 - 255       | Dimmer-Value                | set the global brightness                                          |          |
 | 3    | **Color-Presets**        |               |                             |                                                                    |          | 
-|      |                          | 15 - 42       | Color-Preset 1              | dark blue - red                                                    | ![](Documentation/Images/Color1.jpg) |  
+|      |                          | 0 - 42       | Color-Preset 1              | dark blue - red                                                    | ![](Documentation/Images/Color1.jpg) |  
 |      |                          | 43 - 70       | Color-Preset 2              | blue                                                               | ![](Documentation/Images/Color2.jpg) |
 |      |                          | 71 - 99       | Color-Preset 3              | pink                                                               | ![](Documentation/Images/Color3.jpg) |
 |      |                          | 100 - 172     | Color-Preset 4              | green                                                              | ![](Documentation/Images/Color4.jpg) |
@@ -94,7 +94,7 @@ Bodhira can be controlled using the UI via a Touchscreen, using a PS§-Controlle
 | 19    | **Overlay - FadeOut Time**   |               |                             |                                                                    |      |
 |      |                          | 0 - 255       | FadeOut Time - Value        | set the Time for fading out the Overlay-Effects                     |      |
 | 20    | **Base-Effects**             |               |                             |                                                                    |      |
-|      |                          | 15 - 42       | Base-Effect 1               | continuous circular movement                                       | ![](Documentation/Images/Base1.gif) |
+|      |                          | 0 - 42       | Base-Effect 1               | continuous circular movement                                       | ![](Documentation/Images/Base1.gif) |
 |      |                          | 43 - 70       | Base-Effect 2               | slow, wide circular movement                                       | ![](Documentation/Images/Base2.gif) |
 |      |                          | 71 - 99       | Base-Effect 3               | slow small circular movement                                       | ![](Documentation/Images/Base3.gif) |
 |      |                          | 100 - 172     | Base-Effect 4               | abstract circular movement 1                                       | ![](Documentation/Images/Base4.gif) |
